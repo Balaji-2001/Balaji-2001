@@ -99,6 +99,7 @@ Enterprise MLOps platform forecasting live closing metrics for Asian Paints Ltd.
 - R² score of 0.965
 - FastAPI microservices + Docker containerization
 - Automated live financial data ingestion
+- **[▶ Live Demo]([https://ats-resume-analyzer-07.streamlit.app](https://huggingface.co/spaces/balaji-0707/paintpulse-quant-engine))**
 
 `XGBoost` `FastAPI` `Docker`
 
