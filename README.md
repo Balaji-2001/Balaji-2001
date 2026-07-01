@@ -81,7 +81,7 @@ I'm an **AI/ML Engineer** and **Junior Data Scientist** based in Chennai, India,
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [ATS Resume Analyzer](https://github.com/Balaji-2001)**
+**🧠 [TalentPulse: Hybrid AI Screener & RAG Pipeline](https://github.com/Balaji-2001)**
 <br>
 Agentic RAG pipeline with LangChain/LangGraph and multi-agent orchestration for automated candidate-to-job matching.
 - 90% matching accuracy across 50+ CVs
@@ -107,7 +107,7 @@ Enterprise MLOps platform forecasting live closing metrics for Asian Paints Ltd.
 <tr>
 <td width="50%" valign="top">
 
-**🕳️ [Real-Time Pothole Detection](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
+**🕳️ [YOLOv8 Autonomous Infrastructure Tracking Platform (Real-Time Edge Detection)](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
 <br>
 Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge devices.
 - 90% detection accuracy across 1,000+ images
@@ -118,7 +118,7 @@ Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge 
 </td>
 <td width="50%" valign="top">
 
-**🌀 [Wind Turbine Anomaly Detection](https://github.com/Balaji-2001/Wind-Turbine-Intelligence)**
+**🌀 [Industrial Wind Turbine Intelligence Platform (Streaming MLOps Suite)](https://github.com/Balaji-2001/Wind-Turbine-Intelligence)**
 <br>
 Unsupervised ensemble pipeline combining Isolation Forest and LSTM Autoencoders for predictive maintenance.
 - Detects rare sensor faults (<1% of operations)
