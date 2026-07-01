@@ -14,6 +14,9 @@
 <a href="https://ats-resume-analyzer-07.streamlit.app">
   <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
+<a href="https://huggingface.co/spaces/balaji-0707/paintpulse-quant-engine">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
 
 </div>
 
@@ -81,7 +84,7 @@ I'm an **AI/ML Engineer** and **Junior Data Scientist** based in Chennai, India,
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [TalentPulse: Hybrid AI Screener & RAG Pipeline](https://github.com/Balaji-2001)**
+**🧠 [ATS Resume Analyzer](https://github.com/Balaji-2001)**
 <br>
 Agentic RAG pipeline with LangChain/LangGraph and multi-agent orchestration for automated candidate-to-job matching.
 - 90% matching accuracy across 50+ CVs
@@ -100,6 +103,7 @@ Enterprise MLOps platform forecasting live closing metrics for Asian Paints Ltd.
 - FastAPI microservices + Docker containerization
 - Automated live financial data ingestion
 - **[▶ Live Demo](https://huggingface.co/spaces/balaji-0707/paintpulse-quant-engine)**
+
 `XGBoost` `FastAPI` `Docker`
 
 </td>
@@ -107,7 +111,7 @@ Enterprise MLOps platform forecasting live closing metrics for Asian Paints Ltd.
 <tr>
 <td width="50%" valign="top">
 
-**🕳️ [YOLOv8 Autonomous Infrastructure Tracking Platform (Real-Time Edge Detection)](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
+**🕳️ [Real-Time Pothole Detection](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
 <br>
 Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge devices.
 - 90% detection accuracy across 1,000+ images
@@ -118,7 +122,7 @@ Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge 
 </td>
 <td width="50%" valign="top">
 
-**🌀 [Industrial Wind Turbine Intelligence Platform (Streaming MLOps Suite)](https://github.com/Balaji-2001/Wind-Turbine-Intelligence)**
+**🌀 [Wind Turbine Anomaly Detection](https://github.com/Balaji-2001/Wind-Turbine-Intelligence)**
 <br>
 Unsupervised ensemble pipeline combining Isolation Forest and LSTM Autoencoders for predictive maintenance.
 - Detects rare sensor faults (<1% of operations)
