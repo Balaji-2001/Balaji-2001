@@ -122,13 +122,14 @@ Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge 
 </td>
 <td width="50%" valign="top">
 
-**🌀 [Industrial Wind Turbine Intelligence Platform (Streaming MLOps Suite)](https://github.com/Balaji-2001/Wind-Turbine-Intelligence)**
+**⚽ [FIFA-2026-World-Cup-Predictor — Stochastic Analytics Pipeline](https://github.com/Balaji-2001/FIFA-2026-World-Cup-Predictor)**
 <br>
-Unsupervised ensemble pipeline combining Isolation Forest and LSTM Autoencoders for predictive maintenance.
-- Detects rare sensor faults (<1% of operations)
-- Reduced industrial downtime by 25%
+End-to-end simulation architecture forecasting the 48-team tournament layout using an automated data ingestion and modeling framework.
+- Evaluated hybrid goals models (XGBoost vs. Poisson GLM baseline) using historical international matches backtested from 2010 onwards.
+- Prevented look-ahead data leakage using chronologically calculated Elo metrics and 1-match lagged rolling team form features.
+- Executed a 10,000-iteration Monte Carlo engine accurately resolving official group tie-breakers and Elo-biased knockout penalty shootouts.
 
-`Isolation Forest` `LSTM` `Anomaly Detection`
+`XGBoost` `Poisson GLM` `Monte Carlo` `Predictive Analytics`
 
 </td>
 </tr>
