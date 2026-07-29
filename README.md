@@ -26,6 +26,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=Balaji-2001&label=Profile%20Views&color=00c6ff&style=flat-square" alt="profile views"/>
 
+<br><br>
+
+<a href="#-about-me">About</a> •
+<a href="#️-tech-arsenal">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-trophy-case">Trophies</a> •
+<a href="#-lets-connect">Contact</a>
+
 </div>
 
 <br>
@@ -174,12 +183,24 @@ End-to-end simulation architecture forecasting the 48-team tournament layout usi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Balaji-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-2001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Balaji-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-2001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-2001&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Balaji-2001&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-2001&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Balaji-2001&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+> 💡 **If any card above shows blank:** these are live-rendered by third-party APIs (not static images) and occasionally rate-limit. They usually recover within minutes — refreshing the GitHub page fixes it. If one mirror stays down long-term, swap its domain for an alternate instance (e.g. `github-readme-streak-stats.herokuapp.com` ↔ `streak-stats.demolab.com`).
+
+<br>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Balaji-2001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
@@ -191,9 +212,13 @@ End-to-end simulation architecture forecasting the 48-team tournament layout usi
 
 <img src="https://raw.githubusercontent.com/Balaji-2001/Balaji-2001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — add the snake GitHub Action to your profile repo to activate this</sub>
-
 </div>
+
+> ⚙️ **Setup required (one-time, ~2 min):** this snake is NOT a shared service — it only renders once you generate it in your own repo. Steps:
+> 1. Create a repo named exactly `Balaji-2001` (same as your username) if you don't already have one — this is your GitHub profile repo.
+> 2. Add the workflow file `snake.yml` (provided alongside this README) to `.github/workflows/snake.yml` in that repo.
+> 3. Push it, then go to the repo's **Actions** tab and manually run the "Generate Snake" workflow once.
+> 4. It creates an `output` branch with the SVG — after that, it auto-regenerates daily and the image above will render.
 
 <br>
 
