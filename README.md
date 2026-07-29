@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=BALAJI%20V&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Junior%20Data%20Scientist&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=BALAJI%20V&fontSize=65&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=52&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/balaji-v-aiml">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Agentic+AI+Systems;Turning+Data+into+Deployed+ML+Products;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing SVG" />
+</a>
+
+<br>
 
 <a href="https://www.linkedin.com/in/balaji-v-aiml">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,32 +24,49 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Balaji-2001&label=Profile%20Views&color=00c6ff&style=flat-square" alt="profile views"/>
+
 </div>
 
 <br>
 
-### 👋 About Me
+## 🧭 About Me
 
-I'm an **AI/ML Engineer** and **Junior Data Scientist** based in Chennai, India, with an M.Sc. in Data Science and hands-on experience shipping Machine Learning, Deep Learning, NLP, and Generative AI systems end-to-end — from data pipelines to production deployment.
+I'm an **AI/ML Engineer** and **Data Scientist** based in Chennai, India, with an M.Sc. in Data Science — I build ML, Deep Learning, NLP, and Generative AI systems end-to-end, from raw data to production deployment.
 
-- 🔭 Currently building **production-grade RAG pipelines, forecasting engines, and computer vision systems**
-- 🌱 Deep-diving into **Agentic RAG, multi-agent orchestration, and LangGraph**
+```python
+class Balaji:
+    def __init__(self):
+        self.role = "AI/ML Engineer | Data Scientist"
+        self.location = "Chennai, India"
+        self.focus = ["Agentic RAG", "LLMs", "MLOps", "Computer Vision"]
+        self.currently_building = "Production-grade multi-agent & forecasting systems"
+        self.fun_fact = "I deploy on Streamlit & HuggingFace before I finish my coffee ☕"
+
+    def say_hi(self):
+        return "Let's build something intelligent together 🚀"
+```
+
+- 🔭 Currently building **production-grade RAG pipelines, forecasting engines & CV systems**
+- 🌱 Deep-diving into **Agentic RAG, multi-agent orchestration & LangGraph**
 - 💼 Previously: Data Scientist Intern @ **Wright Logic** · Guest Lecturer @ **Theivanai Ammal College for Women**
-- 📫 Reach me at **balajivasanthakumar2001@gmail.com**
 - 🌍 Open to remote & on-site AI/ML roles
+- ⚡ Ask me about: RAG systems, LLM agents, MLOps, time-series forecasting
 
 <br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 **Generative AI & LLMs**
 <br>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent-8A2BE2?style=flat-square"/>
 
 **Machine Learning & Deep Learning**
 <br>
@@ -78,66 +101,76 @@ I'm an **AI/ML Engineer** and **Junior Data Scientist** based in Chennai, India,
 
 <br>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 [TalentPulse: Hybrid AI Screener & RAG Pipeline](https://github.com/Balaji-2001)**
+<details open>
+<summary><b>🧠 TalentPulse — Hybrid AI Resume Screener & RAG Pipeline</b></summary>
 <br>
+
 Agentic RAG pipeline with LangChain/LangGraph and multi-agent orchestration for automated candidate-to-job matching.
-- 90% matching accuracy across 50+ CVs
-- FAISS vector embeddings cut screening time by 60%
-- **[▶ Live Demo](https://ats-resume-analyzer-07.streamlit.app)**
 
-`LangChain` `FAISS` `Streamlit` `LLM`
+| Metric | Result |
+|---|---|
+| Matching accuracy | 90% across 50+ CVs |
+| Screening time saved | 60% via FAISS vector search |
+| Stack | `LangChain` `FAISS` `Streamlit` `LLM` |
 
-</td>
-<td width="50%" valign="top">
+**[▶ Live Demo](https://ats-resume-analyzer-07.streamlit.app)** · **[📂 Source](https://github.com/Balaji-2001)**
 
-**📈 [Paintpulse-Quant-Engine — AI Price Prediction Platform](https://github.com/Balaji-2001/PaintPulse-QuantEngine)**
+</details>
+
+<details>
+<summary><b>📈 Paintpulse Quant Engine — AI Price Prediction Platform</b></summary>
 <br>
+
 Enterprise MLOps platform forecasting live closing metrics for Asian Paints Ltd. using hyperparameter-tuned XGBoost.
-- R² score of 0.965
-- FastAPI microservices + Docker containerization
-- Automated live financial data ingestion
-- **[▶ Live Demo](https://huggingface.co/spaces/balaji-0707/paintpulse-quant-engine)**
 
-`XGBoost` `FastAPI` `Docker`
+| Metric | Result |
+|---|---|
+| Model accuracy | R² score of 0.965 |
+| Architecture | FastAPI microservices + Docker |
+| Data | Automated live financial data ingestion |
+| Stack | `XGBoost` `FastAPI` `Docker` |
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**[▶ Live Demo](https://huggingface.co/spaces/balaji-0707/paintpulse-quant-engine)** · **[📂 Source](https://github.com/Balaji-2001/PaintPulse-QuantEngine)**
 
-**🕳️ [YOLOv8 Autonomous Infrastructure Tracking Platform (Real-Time Edge Detection)](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
+</details>
+
+<details>
+<summary><b>🕳️ YOLOv8 Autonomous Infrastructure Tracking Platform</b></summary>
 <br>
+
 Fine-tuned YOLOv8 + OpenCV pipeline for real-time road defect detection on edge devices.
-- 90% detection accuracy across 1,000+ images
-- 30+ FPS inference speed on 5,000+ road images
 
-`YOLOv8` `OpenCV` `Computer Vision`
+| Metric | Result |
+|---|---|
+| Detection accuracy | 90% across 1,000+ images |
+| Inference speed | 30+ FPS on 5,000+ road images |
+| Stack | `YOLOv8` `OpenCV` `Computer Vision` |
 
-</td>
-<td width="50%" valign="top">
+**[📂 Source](https://github.com/Balaji-2001/Pothole-Detection-Using-YOLOv8-Ultralytics)**
 
-**⚽ [FIFA-2026-World-Cup-Predictor — Stochastic Analytics Pipeline](https://github.com/Balaji-2001/FIFA-2026-World-Cup-Predictor)**
-<br>
-End-to-end simulation architecture forecasting the 48-team tournament layout using an automated data ingestion and modeling framework.
-- Evaluated hybrid goals models (XGBoost vs. Poisson GLM baseline) using historical international matches backtested from 2010 onwards.
-- Prevented look-ahead data leakage using chronologically calculated Elo metrics and 1-match lagged rolling team form features.
-- Executed a 10,000-iteration Monte Carlo engine accurately resolving official group tie-breakers and Elo-biased knockout penalty shootouts.
+</details>
 
-`XGBoost` `Poisson GLM` `Monte Carlo` `Predictive Analytics`
-
-</td>
-</tr>
-</table>
-
+<details>
+<summary><b>⚽ FIFA 2026 World Cup Predictor — Stochastic Analytics Pipeline</b></summary>
 <br>
 
-### 📊 GitHub Stats
+End-to-end simulation architecture forecasting the 48-team tournament layout using automated data ingestion and modeling.
+
+- Evaluated hybrid goals models (XGBoost vs. Poisson GLM baseline) backtested on international matches from 2010 onward
+- Prevented look-ahead leakage using chronological Elo metrics and 1-match lagged rolling form features
+- Ran a 10,000-iteration Monte Carlo engine resolving group tie-breakers and Elo-biased knockout shootouts
+
+**Stack:** `XGBoost` `Poisson GLM` `Monte Carlo` `Predictive Analytics`
+
+**[📂 Source](https://github.com/Balaji-2001/FIFA-2026-World-Cup-Predictor)**
+
+</details>
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -146,11 +179,25 @@ End-to-end simulation architecture forecasting the 48-team tournament layout usi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-2001&theme=tokyonight&hide_border=true" width="49%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-2001&theme=tokyo-night&hide_border=true" width="100%"/>
+
 </div>
 
 <br>
 
-### 🤝 Let's Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Balaji-2001/Balaji-2001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — add the snake GitHub Action to your profile repo to activate this</sub>
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -165,6 +212,6 @@ I'm always open to discussing AI/ML projects, collaborations, or opportunities.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=100&section=footer" width="100%"/>
 
 </div>
