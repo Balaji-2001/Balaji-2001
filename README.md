@@ -188,7 +188,7 @@ End-to-end simulation architecture forecasting the 48-team tournament layout usi
 
 <img src="https://streak-stats.demolab.com?user=Balaji-2001&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Balaji-2001&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-2001&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
