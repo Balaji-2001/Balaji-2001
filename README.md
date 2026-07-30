@@ -211,7 +211,7 @@ End-to-end simulation architecture forecasting the 48-team tournament layout usi
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Balaji-2001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://raw.githubusercontent.com/Balaji-2001/Balaji-2001/main/trophy.svg?v=2" width="100%"/>
 
 </div>
 
