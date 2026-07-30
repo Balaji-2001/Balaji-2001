@@ -22,13 +22,13 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Balaji-2001
-          output_path: trophy.svg
+          file: trophy.svg
           theme: tokyonight
           no-frame: "true"
-          row: "1"
-          column: "7"
-          margin-w: "8"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          max-rows: "1"
+          max-cols: "7"
+          margin-width: "8"
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit trophy.svg back to main
         uses: stefanzweifel/git-auto-commit-action@v5
